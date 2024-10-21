@@ -8,8 +8,6 @@
 
 ***
 <h3 align="center">A passionate Full Stack Web Developer </h3>
-<img  align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
 
 
 - 🙋🏻 I'm very passionate about coding.
@@ -34,7 +32,8 @@ hasan@uixify.com 📫
 </div>
 
 ***
-
+<!-- User stats Iamges -->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=syedd-hasan&show_icons=true&locale=en&layout=compact" alt="syedd-hasan" width="500" height="350"/> <img  src="https://github-readme-stats.vercel.app/api?username=syedd-hasan&show_icons=true&locale=en" alt="syedd-hasan" width="500" height="350"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=syedd-hasan&" alt="syedd-hasan" width="900" />
 <!--
 **syedd-hasan/syedd-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
