@@ -15,7 +15,7 @@
 - 👯 I'm looking forward to collaborating on **Developing next generation websites and mobile apps**.
 
 ### Connect with me:
-hasan@uixify.com 📫
+hasan.madebybytes@gmail.com 📫
 
 <hr>
 
